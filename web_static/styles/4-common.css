@@ -26,6 +26,9 @@ button{
     margin-right: 30px;
     opacity: 1;
     transition: .4s;
+    float: right;
+    display: block;
+    margin-top: 11px;
 }
 
 button:hover{
