@@ -1,3 +1,7 @@
+html{
+    position: relative;
+}
+
 header{
     background-color: #fff;
     height: 70px;

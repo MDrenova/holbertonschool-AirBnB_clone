@@ -50,6 +50,7 @@
     top: 56px;
     width: 79.5%;
     padding: 25px 30px;
+    z-index: 9;
 }
 
 .popover ul{
